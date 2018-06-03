@@ -1,13 +1,13 @@
 ## DevelopingNodes
-Made with love by Sonu Jose
+DevelopingNodes is made with love by Sonu Jose
 
 ## Getting Started
 Jekyll - ruby based static site generator solution
 
 ## Configure Ruby in Windows
-Download Ruby and install in the system
-Install bundler - `gem install bundler`
-Install Related packages - `bundle install`
+- Download Ruby and install in the system
+- Install bundler - `gem install bundler`
+- Install Related packages - `bundle install`
 
 ### Deployment
 Firebase hosting
@@ -26,7 +26,7 @@ $ gulp
 - The parent directory for deployment purpose only
 - The final build will be in the public folder 
 
-**2)** Open Bash in jasper2-master 
+**2)** Open Bash in developingnodes-master 
 - Running `bundle exec jekyll serve` will generate the files in the public folder
 - See configure Ruby on Windows section for handling bundler
 

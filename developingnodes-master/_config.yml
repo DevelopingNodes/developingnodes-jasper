@@ -11,7 +11,6 @@ baseurl: /
 title: DevelopingNodes
 description: Insights from Nodal World
 cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 production_url: https://jekyller.github.io/jasper2/

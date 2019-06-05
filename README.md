@@ -30,8 +30,8 @@ $ gulp
 - Running `bundle exec jekyll serve` will generate the files in the public folder
 - See configure Ruby on Windows section for handling bundler
 
-**3)** that we need to generate your site locally (more details below) and push the resulting
-HTML (the contents of `_site/` or `../public/`) for firebase deployment;
+**3)** Need to generate site locally (more details below) and push the resulting
+HTML (the contents of `_site/` or `../public/`) for firebase deployment. The config.yml has been set to deploy the result into ../public folder for firebase deployment;
 
 **4)** If firebase is not yet configured in the system run `npm install -g firebase-tools`
 
